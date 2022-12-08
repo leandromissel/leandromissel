@@ -7,7 +7,7 @@
  
  I have 10 years of professional experience in the administrative sector, in the areas of business, products, purchases, equity, tax and finance, and I am looking for my first experience as a web developer.
 
-I want to combine my professional experience with the new learnings acquired in technology courses to become an excellent programmer.
+I want to combine my professional experience with the new learnings acquired in technology courses to become an excellent programmer. :nerd_face:
 </p>
 
 ##
