@@ -5,7 +5,7 @@
 <p align="left"> 
  I'm a web developer and a future software engineer, i'm completely in love about programming, and i want to change the world with code.
  
- I have 10 years of professional experience in the administrative sector, in the areas of business, products, purchases, equity, tax and finance, and I am looking for my first experience as a web developer.
+ I have 20 years of professional experience in the administrative sector, in the areas of business, products, purchases, equity, tax and finance, and I am looking for my first experience as a web developer.
 
 I want to combine my professional experience with the new learnings acquired in technology courses to become an excellent programmer. :nerd_face:
 </p>
@@ -35,8 +35,6 @@ I want to combine my professional experience with the new learnings acquired in 
   <a href="#" alt="git">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></a>
   
-  <a href="#" alt="office">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/></a>
 </p>  
 
 ##
